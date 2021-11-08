@@ -1,0 +1,3 @@
+docker exec 01container cat /etc/os-release
+
+#https://bernardolankheet.medium.com/como-executar-comandos-dentro-do-docker-docker-exec-37cc317fb44
